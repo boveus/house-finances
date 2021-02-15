@@ -4,3 +4,10 @@
 require_relative 'config/application'
 
 Rails.application.load_tasks
+
+namespace :import do
+  desc "Import pdfs in 2020 directory"
+  task :twentytwenty do
+    Scraper.new.import('2020')
+  end
+end
