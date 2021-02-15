@@ -32,9 +32,9 @@ jobs:
           bundle install --jobs 4 --retry 3
           yarn install
       - name: Setup test database
-        run:
+        run: |
           cp .github/workflows/database.yml config/database.yml
-          rake db:test:prepare
+          rails db:test:prepare
         env:
           RAILS_ENV: test
           POSTGRES_USER: postgres
