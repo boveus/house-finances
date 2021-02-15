@@ -1,17 +1,15 @@
 class HomeController < ApplicationController
     def find_representatives
-        if name_params
-            @rep = Representative.where("name ilike ?", "%#{name_params}%")
-        elsif district_params
-            @rep = Representative.where("district ilike ?", "%#{district_params}%")
-        end
-
         respond_to do |format|
-            format.json { render json: @rep }
+            format.json { render json: representative }
         end
     end
 
     private
+
+    def representatives
+        representatives_by_name_or_district(name_params, district_params)
+    end
 
     def name_params
         params.permit(:name)["name"]
