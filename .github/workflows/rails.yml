@@ -33,7 +33,7 @@ jobs:
           yarn install
       - name: Setup test database
         run: |
-          cp .github/coonfig/database.yml config/database.yml
+          cp .github/config/database.yml config/database.yml
           rails db:test:prepare
         env:
           RAILS_ENV: test
