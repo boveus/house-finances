@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FinancialDisclosure>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Allen</Last>
+    <First>Richard W.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>GA12</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/13/2021</FilingDate>
+    <DocID>20018021</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Banks</Last>
+    <First>James E Hon</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>IN03</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/13/2021</FilingDate>
+    <DocID>20018018</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Beyer</Last>
+    <First>Donald Sternoff Honorable</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA08</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/1/2021</FilingDate>
+    <DocID>20017909</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Blumenauer</Last>
+    <First>Earl</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OR03</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/6/2021</FilingDate>
+    <DocID>20017979</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Brooks</Last>
+    <First>Mo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>AL05</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>20018077</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Buchanan</Last>
+    <First>Vern</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL16</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/18/2021</FilingDate>
+    <DocID>20018041</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Castor</Last>
+    <First>Kathy</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/4/2021</FilingDate>
+    <DocID>20017966</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cisneros</Last>
+    <First>Gilbert</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA39</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/11/2021</FilingDate>
+    <DocID>20017992</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cisneros</Last>
+    <First>Gilbert</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CA39</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/11/2021</FilingDate>
+    <DocID>30011630</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Conaway</Last>
+    <First>K. Michael</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX11</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/22/2021</FilingDate>
+    <DocID>20018064</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Conaway</Last>
+    <First>K. Michael</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX11</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/21/2021</FilingDate>
+    <DocID>30011634</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Connolly</Last>
+    <First>Gerald E.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>VA11</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/27/2021</FilingDate>
+    <DocID>20018084</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Cox</Last>
+    <First>Terrence John (Tj)</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CA21</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>30011638</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Davis</Last>
+    <First>Susan A.</First>
+    <Suffix />
+    <FilingType>T</FilingType>
+    <StateDst>CA53</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>10039440</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/13/2021</FilingDate>
+    <DocID>20017962</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Dingell</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MI12</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/13/2021</FilingDate>
+    <DocID>20017983</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Doggett</Last>
+    <First>Lloyd</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX35</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/6/2021</FilingDate>
+    <DocID>20017977</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Dunn</Last>
+    <First>Neal Patrick MD, Facs</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL02</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/15/2021</FilingDate>
+    <DocID>20018007</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Foxx</Last>
+    <First>Virginia</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC05</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/8/2021</FilingDate>
+    <DocID>20017967</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Frankel</Last>
+    <First>Lois</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL21</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/21/2021</FilingDate>
+    <DocID>20018050</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/7/2021</FilingDate>
+    <DocID>20017973</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Green</Last>
+    <First>Mark Dr</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN07</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/11/2021</FilingDate>
+    <DocID>20017867</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/15/2021</FilingDate>
+    <DocID>20018029</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Kelly</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA16</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/25/2021</FilingDate>
+    <DocID>8217820</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Langevin</Last>
+    <First>James R.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>RI02</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/8/2021</FilingDate>
+    <DocID>20017921</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lee</Last>
+    <First>Susie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NV03</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/11/2021</FilingDate>
+    <DocID>20017980</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lowenthal</Last>
+    <First>Alan S.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/9/2021</FilingDate>
+    <DocID>20017999</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lowenthal</Last>
+    <First>Alan S.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/9/2021</FilingDate>
+    <DocID>20018000</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lowenthal</Last>
+    <First>Alan S.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/9/2021</FilingDate>
+    <DocID>20018001</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lowenthal</Last>
+    <First>Alan S.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>20018081</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lowenthal</Last>
+    <First>Alan S.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>20018082</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lowenthal</Last>
+    <First>Alan S.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>20018083</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Marchant</Last>
+    <First>Kenny</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX24</StateDst>
+    <Year>2021</Year>
+    <FilingDate>11/2/2020</FilingDate>
+    <DocID>8217795</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McHenry</Last>
+    <First>Patrick T.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC10</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/10/2021</FilingDate>
+    <DocID>20018005</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Mitchell</Last>
+    <First>Paul</First>
+    <Suffix>III</Suffix>
+    <FilingType>T</FilingType>
+    <StateDst>MI10</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/19/2021</FilingDate>
+    <DocID>10039411</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Mucarsel-Powell</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>FL26</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/11/2021</FilingDate>
+    <DocID>30011631</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Olson</Last>
+    <First>Pete</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX22</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/19/2021</FilingDate>
+    <DocID>30011633</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Pelosi</Last>
+    <First>Nancy</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA12</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/21/2021</FilingDate>
+    <DocID>20018011</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Peters</Last>
+    <First>Scott H.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA52</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/13/2021</FilingDate>
+    <DocID>20017994</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Peterson</Last>
+    <First>Collin C.</First>
+    <Suffix />
+    <FilingType>T</FilingType>
+    <StateDst>MN07</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/25/2021</FilingDate>
+    <DocID>10039466</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Phillips</Last>
+    <First>Dean</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MN03</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/9/2021</FilingDate>
+    <DocID>20017991</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Price</Last>
+    <First>David E.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC04</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/3/2021</FilingDate>
+    <DocID>20017957</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ross</Last>
+    <First>Deborah K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC02</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/24/2021</FilingDate>
+    <DocID>20018072</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rouda</Last>
+    <First>Harley E.</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>X</FilingType>
+    <StateDst>CA48</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/22/2021</FilingDate>
+    <DocID>30011636</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Serrano</Last>
+    <First>José E.</First>
+    <Suffix />
+    <FilingType>T</FilingType>
+    <StateDst>NY15</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/17/2021</FilingDate>
+    <DocID>10039447</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Shalala</Last>
+    <First>Donna</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>FL27</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/22/2021</FilingDate>
+    <DocID>30011635</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Simpson</Last>
+    <First>Michael K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>ID02</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/13/2021</FilingDate>
+    <DocID>20018028</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Thornberry</Last>
+    <First>Mac</First>
+    <Suffix />
+    <FilingType>T</FilingType>
+    <StateDst>TX13</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/5/2021</FilingDate>
+    <DocID>10039410</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Visclosky</Last>
+    <First>Peter J.</First>
+    <Suffix />
+    <FilingType>T</FilingType>
+    <StateDst>IN01</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/25/2021</FilingDate>
+    <DocID>10039464</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Walker</Last>
+    <First>Bradley Mark</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>NC06</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>30011639</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Watkins</Last>
+    <First>Steven Charles</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>X</FilingType>
+    <StateDst>KS02</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/25/2021</FilingDate>
+    <DocID>30011637</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Wittman</Last>
+    <First>Robert J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>VA01</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/19/2021</FilingDate>
+    <DocID>20018035</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Wittman</Last>
+    <First>Robert J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>VA01</StateDst>
+    <Year>2021</Year>
+    <FilingDate>1/26/2021</FilingDate>
+    <DocID>20018052</DocID>
+  </Member>
+</FinancialDisclosure>

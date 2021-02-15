@@ -1,0 +1,13 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  host: ''
+
+development:
+  <<: *default
+  database: house_finances
+
+test: &test
+  <<: *default
+  database: house_finances
