@@ -1,0 +1,12 @@
+<p> <%= representative.name %>
+<p> <%= representative.district %>
+<p> Total Assets: <%= representative.total_assets_value %> 
+<% representative.assets.each do |asset| %>
+<h5> <%= asset.name %> </h5>
+<ul> 
+    <li> <%= asset.display_dollar_amount %> </li>
+    <li> <%= "#{time_ago_in_words asset.date} ago" %> </li>
+    <li> <%= link_to 'Reference', asset.link %> </li>
+</ul>
+
+<% end %>
