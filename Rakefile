@@ -10,4 +10,8 @@ namespace :import do
   task :twentytwenty => :environment do
     Scraper.new.import('2020')
   end
+  desc "Import guide ids for reps"
+  task :guide_ids => :environment do 
+    BioguideIds.import
+  end
 end

@@ -11,7 +11,9 @@ class Scraper
             result = read_pdf(file) rescue false
             if result
                 rep = create_representative(result[:name], result[:district])
-            
+
+
+                    
                 result[:assets].each do |asset|
                     create_asset(rep, asset, result[:reference])
                 end
