@@ -145,6 +145,8 @@ class Scraper
     def format_name(raw_name)
         # Split on ame: instead of Name: or name: since name can be either case
         @name = raw_name.split("ame:").last.lstrip.split("\n").first
+        # Remove credentials because surgeons like Hon. Neal Patrick MD, FACS Dunn
+        # @name.slice!(" MD, FACS").slice!(" MD, Facs")
         if (!@name.include?(' '))
             @name = @name.split(/(?=[A-Z])/).join(' ')
         end
